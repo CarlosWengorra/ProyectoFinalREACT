@@ -62,3 +62,6 @@ function App() {
 }
 
 export default App;
+
+
+//"funding": {"url": "https://github.com/CarlosWengorra"}

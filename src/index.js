@@ -9,3 +9,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+//"funding": {"url": "https://github.com/CarlosWengorra"}
